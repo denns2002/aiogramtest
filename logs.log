@@ -1,0 +1,12 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @aiogramm_den_test_bot id=7820054541 - 'aiogramm_test_bot'
+INFO:aiogram.event:Update id=446006202 is handled. Duration 547 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006203 is handled. Duration 452 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006204 is handled. Duration 422 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006205 is handled. Duration 297 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006206 is handled. Duration 297 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006207 is handled. Duration 265 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006208 is handled. Duration 297 ms by bot id=7820054541
+INFO:aiogram.event:Update id=446006209 is handled. Duration 297 ms by bot id=7820054541
+INFO:aiogram.dispatcher:Polling stopped
+INFO:aiogram.dispatcher:Polling stopped for bot @aiogramm_den_test_bot id=7820054541 - 'aiogramm_test_bot'
